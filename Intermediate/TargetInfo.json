@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "project1",
-			"Path": "E:\\project\\project1\\Source\\project1.Target.cs",
+			"Path": "D:\\UE4\\新建文件夹\\project1\\Source\\project1.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "project1Editor",
-			"Path": "E:\\project\\project1\\Source\\project1Editor.Target.cs",
+			"Path": "D:\\UE4\\新建文件夹\\project1\\Source\\project1Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]
